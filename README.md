@@ -49,6 +49,8 @@ I am a **Senior AI Front-End Developer** with **9+ years of experience** archite
 <p>
   <img src="https://img.shields.io/badge/Vue.js%203-%2335495E.svg?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt.js%203-%23002E3B.svg?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Vuetify-%231867C0.svg?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/Material_Design-%23757575.svg?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript%20(ESNext)-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
