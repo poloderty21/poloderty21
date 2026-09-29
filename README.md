@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./header.svg" alt="Xavier Alexandre - Senior AI Front-End Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/poloderty21/poloderty21/main/header.svg" alt="Xavier Alexandre - Senior AI Front-End Developer" width="100%" />
 
   <br><br>
 
